@@ -1,4 +1,5 @@
-# SampleWebApp - DevOps CI/CD Pipeline Project
+# SampleWebApp – DevOps CI/CD Pipeline Project (Windows)
+
 
 ## 📌 Project Overview
 
@@ -12,17 +13,6 @@ This project demonstrates an automated DevOps workflow that includes:
 - Deploying the application to Apache Tomcat
 
 The goal of this project is to implement a real-time Continuous Integration and Continuous Deployment process.
-
----
-
-## 🏗 Project Architecture
-
-Below is the architecture of the CI/CD Pipeline:
-
-![CI-CD Pipeline](ci-cd-pipeline.png)
-
-> Save the architecture image in the same folder as this README file  
-> Rename the image as: ci-cd-pipeline.png
 
 ---
 
@@ -44,7 +34,7 @@ Install the following tools before setup:
 - Git
 - Java (JDK)
 - Apache Tomcat
-- Jenkins
+- Jenkins(windows)
 - Apache Ant
 
 ### Configure Environment Variables:
@@ -61,7 +51,7 @@ Restart the system after configuration.
 
 - Git
 - GitHub
-- Jenkins
+- Jenkins(windows)
 - Apache Ant
 - JUnit
 - Apache Tomcat
